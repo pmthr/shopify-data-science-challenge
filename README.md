@@ -1,6 +1,6 @@
 # Shopify Data Science Intern Challenge, Fall 2022
 
-This repository contains my solutions for Shopify's Data Science Intern Challenge (Fall 2022) 
+🛍️ This repository contains my solutions for Shopify's Data Science Intern Challenge (Fall 2022) 
 
 📝 The prompt can be found here: https://docs.google.com/document/d/1JxYz-VZHIctOQcw1PIUvCuYouxDWnew5yzBhluVwbso/edit#
 
